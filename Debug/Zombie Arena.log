@@ -1,0 +1,14 @@
+﻿  CreateHorde.cpp
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(24,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(25,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(30,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(31,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(36,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(37,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(42,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\CreateHorde.cpp(43,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Zombie.cpp
+C:\VS Projects\Zombie Arena\Zombie.cpp(55,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Zombie Arena\Zombie.cpp(149,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Zombie Arena.vcxproj -> C:\VS Projects\Zombie Arena\Debug\Zombie Arena.exe
