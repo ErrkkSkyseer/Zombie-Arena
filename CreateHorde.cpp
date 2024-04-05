@@ -10,6 +10,7 @@ Zombie* createHorde(int numZombies, IntRect arena)
 	int maxX = arena.width - 20;
 	int minX = arena.left + 20;
 
+	//random spawn pos and zombie type
 	for (int i = 0; i < numZombies; i++)
 	{
 		//Which side should the zombie spawn
